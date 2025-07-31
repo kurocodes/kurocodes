@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there~ 👋
 
-<!--
-**kurocodes/kurocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m [Kuro](https://deepak-vaishnav-portfolio.vercel.app/), a fullstack web developer with **anime in my heart** and **code in my hands**. 🖤✨
 
-Here are some ideas to get you started:
+I turn ideas into code, and code into cozy digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love crafting clean, responsive, and aesthetic websites using **React**, **Node.js**, **MongoDB**, and **Tailwind CSS**. 🎨💻  
+
+When I’m not coding, you’ll find me:
+- Watching anime (🌀 **shounen + action** = *goosebumps* 💥 / 🌸 **romance + slice of life** = *comfort zone* 💖)
+- Sharing dev + anime content on [Instagram](https://www.instagram.com/kuro.codes) and [LinkedIn](https://www.linkedin.com/in/kuro-codes-541199375)
+
+### Alsooo~ 😗💕
+- I love anime, coding, neko, and **Mai-san** (best waifu don't fight me 😤🐰)
+- Current goal: _**"Kaizoku ou ni ore wa naru!"**_ 🏴‍☠️
