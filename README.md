@@ -1,6 +1,6 @@
 ### Hi there~ 👋
 
-I’m [Kuro](https://deepak-vaishnav-portfolio.vercel.app/), a fullstack web developer with **anime in my heart** and **code in my hands**. 🖤✨
+I’m [Kuro](https://kurocodes.netlify.app/), a fullstack web developer with **anime in my heart** and **code in my hands**. 🖤✨
 
 I turn ideas into code, and code into cozy digital experiences.
 
