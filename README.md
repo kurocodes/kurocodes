@@ -1,22 +1,17 @@
-### Hey there! 👋
+<img width="1584" height="396" alt="LinkedIn banned" src="https://github.com/user-attachments/assets/1fda3778-ecd1-45d4-9a3b-f5c18135a3f7" />
 
-I’m [**Kuro**](https://kurocodes.netlify.app/), a full-stack web developer who enjoys building clean, interactive, and thoughtful web experiences.
+### Hey there! ✦
 
-I like turning ideas into real, usable products — from smooth frontend interactions to reliable backend systems.
+I’m [**Kuro**](https://kurocodes.netlify.app), a creative frontend developer focused on motion UI and interactive experiences.
 
-My main stack includes **React**, **Node.js**, **MongoDB**, and **Tailwind CSS**, with a strong focus on performance, animations, and developer experience. I enjoy working with motion and micro-interactions to make interfaces feel alive.
+I build interfaces that feel smooth, expressive, and alive. I love turning simple ideas into playful, animated components that make the web feel more human.
 
-You’ll find a mix of UI experiments, reusable components, and full-stack projects in my pinned repositories.
+My main stack is React, Tailwind, and Motion, and I enjoy working with micro-interactions, layout animations, and creative UI experiments. I care a lot about clean frontend structure and motion that actually improves the experience, not just decoration.
 
-Outside of coding, I enjoy anime (action, romance, slice of life) and occasionally share dev-related content
+You’ll mostly find motion-driven UI components, interactive experiments, and creative frontend projects in my pinned repositories.
 
-#### Tech Stack
-- React, JavaScript, HTML, CSS
-- Node.js, Express.js, MongoDB
-- Tailwind CSS, Motion / Framer Motion
-- Git, GitHub, Vercel
+I’m also exploring game development with Unity, C#, and Blender, and I want to blend that sense of interaction and atmosphere into my web work over time.
 
-#### Fun Facts
-- I enjoy anime-inspired UI aesthetics
-- I like building small interactive components
-- Currently focused on improving design + animation skills
+Outside of coding, I love anime (especially action, romance, and slice of life), anime-inspired aesthetics, and building small things just for fun. Most of my ideas start as “what if…” and end up becoming a component or a mini project.
+
+
